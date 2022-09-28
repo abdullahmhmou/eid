@@ -1,0 +1,185 @@
+*{
+   padding: 0px;
+   margin: 0px;    
+}
+.div1{
+     width: 2000px;
+     height: 1000px;
+     background-image: url("eid.jpg");
+
+}
+.div1 h1{
+     font-family: cursive;
+     text-align: center;
+     color: white;
+     margin: 553px 10px 10px -32px;
+     font-size: 48px;
+     text-transform: capitalize;
+}
+.div1 span{
+     color: #faf603;
+}
+nav{ 
+     height: 80px;
+     width: 100%;
+}
+label.loge{
+     font-family: 'Blaka Ink', cursive;
+     color: white;
+     font-size: 35px;
+     line-height: 80px;
+     padding: 0 100px;
+     font-weight: bold;
+     font-style: italic ;
+}
+nav ul{
+     float: right;
+     margin-right: 20px;
+
+}
+nav ul li{
+     display: inline-block;
+     line-height: 80px;
+     margin: 0 5px;
+
+}
+nav ul li a{
+     color: white;
+     font-size: 17px ;
+     text-transform: uppercase;
+     padding: 7px 13px;
+     border-radius: 3px;
+}
+a.active,a:hover{
+     background: #faf603;
+     transition: .5s;
+}
+.div2{
+     margin: 82px 10px 10px 509px;
+     font-size: 20px ;
+     text-align: center;
+}
+.div2 h1{
+     text-transform: capitalize;
+     color: #faf603;
+     text-shadow: 4px 6px 13px black;
+}
+.d1{
+     background-color: rgb(58, 56, 56);
+     width: 300px;
+     height: 200px;
+     box-shadow: 10px 10px 10px black;
+     margin-left: 200px;
+     padding: 20px;
+     color: #eee;
+     text-align: center;
+}
+.d1 h1{
+     color: black;
+}
+.d2{
+     background-color: rgb(238, 255, 6);
+     width: 300px;
+     height: 200px;
+     box-shadow: 10px 10px 10px black;
+     margin: -239px 10px 10px 578px;
+     padding: 20px;
+     color:black;
+     text-align: center;
+}
+.d2 h1{
+     color: black;
+}
+.d3{
+     background-color: rgb(58, 56, 56);
+     width: 300px;
+     height: 200px;
+     box-shadow: 10px 10px 10px black;
+     margin: -248px 10px 10px 950px;
+     padding: 20px;
+     color: #eee;
+     text-align: center;
+}
+.d3 h1{
+     color: black;
+}
+.d4{
+     background-color: rgb(238, 255, 6);
+     width: 300px;
+     height: 200px;
+     box-shadow: 10px 10px 10px black;
+     margin: -247px 10px 10px 1327px;
+     padding: 20px;
+     color:black;
+     text-align: center;
+}
+.d4 h1{
+     color: black;
+}
+.div3{
+     width: 100%;
+     height: 300px;
+     
+}
+.div3 h1{
+     color:rgb(238, 255, 6) ;
+     font-size: 50px;
+     text-align: center;
+     text-shadow: 10px 4px 12px black;
+     font-weight: 600;
+     margin-top: 100px;
+}
+.div4{
+     background-image: url("8.jpg");
+     padding: 50px;
+     text-align: center;
+     height: fit-content;
+     margin-top: 200px;
+     
+}
+.div4 form{
+     overflow: hidden;
+     margin-left: 150px;
+     margin-right: 150px;
+     border: 2px solid yellow;
+     background-color: rgb(83,169, 140);
+     
+}
+.div4 input{
+     float: left;
+     width: 140vh;
+     border-bottom: 2px solid rgb(210, 210, 39);
+     color: rgb(190, 190, 20);
+     padding: 5px;
+     margin: 10px 20px ;
+     background-color: rgb(67,140 ,115);
+
+}
+.div4 p{
+   color: #eee;
+}
+.div4 h1{
+     color: #eee;
+     text-transform: capitalize;
+     font-size: x-large;
+     font-weight: 400;
+     margin: 5px 0px;
+}
+.div4 textarea{
+     width: 140vh;
+     background-color: rgb(67,140 ,115);
+}
+.foot{
+     background-color: rgb(235,235,69);
+     text-align: center;
+}
+.foot footer ul{
+     display: inline-block;
+     width: 200px;
+     padding: 10px;
+     cursor: pointer;
+
+}
+.foot .icon{
+     padding: 5px;
+}
